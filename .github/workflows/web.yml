@@ -11,7 +11,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-        server: ftp.soyeducador.com
+        server: 15.235.50.116
         username:  web@soyeducador.com
         password: TvmQc%4lsDuS
 
