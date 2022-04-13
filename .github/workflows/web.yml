@@ -14,4 +14,5 @@ jobs:
         server: ftp.soyeducador.com
         username:  soyeduc1
         password: ys4PcgO@V*02D1
+        server-dir: ./public_html/
 
