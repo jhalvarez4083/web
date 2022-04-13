@@ -12,6 +12,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
         server: ftp.soyeducador.com
-        username:  web@soyeducador.com
+        username:  soyeduc1
         password: TvmQc%4lsDuS
 
